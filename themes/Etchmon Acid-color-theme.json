@@ -366,7 +366,7 @@
     "walkThrough.embeddedEditorBackground": "#070619",
 
     // Git colors
-    "gitDecoration.modifiedResourceForeground": "#a7559b",
+    "gitDecoration.modifiedResourceForeground": "#30a387",
     "gitDecoration.deletedResourceForeground": "#ef6b6b",
     "gitDecoration.untrackedResourceForeground": "#6fe55a",
     "gitDecoration.ignoredResourceForeground": "#D8DEE977",

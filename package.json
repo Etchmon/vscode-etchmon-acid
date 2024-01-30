@@ -3,7 +3,7 @@
   "displayName": "Etchmon Acid",
   "description": "A vs-code color theme",
   "version": "0.0.1",
-  "publisher": "Etchmon",
+  "publisher": "etchmon-dev",
   "engines": {
     "vscode": "^1.85.0"
   },
