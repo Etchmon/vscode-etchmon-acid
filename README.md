@@ -1,16 +1,20 @@
 # etchmon-acid README
 
-## Working with Markdown
+## Etchmon Acid is a high contrast dark theme for vscode designed and developed in consideration of the visually impared.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### List of Colors Used
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- #070619
+- #1a2131
+- #2a3751
+- #6679A4
+- #D8DEE9
+- #ECEFF4
+- #E5E9F0
+- #30a387
+- #a7559b
+- #6fe55a
+- #ea9336
+- #80e8ff
+- #e8e083
+- #ef6b6b
