@@ -32,8 +32,9 @@
     "textCodeBlock.background": "#070619",
     "textLink.activeForeground": "#30a387",
     "textLink.foreground": "#30a387",
-    "textPreformat.foreground": "#E5E9F0",
-    "textSeparator.foreground": "#E5E9F0",
+    "textPreformat.foreground": "#070619",
+    "textSeparator.foreground": "#070619",
+    "textPreformat.background": "#30a387",
 
     // Button control
     "button.background": "#30a387",
@@ -940,6 +941,13 @@
       "settings": {
         "fontStyle": "underline",
         "foreground": "#30a387"
+      }
+    },
+    {
+      "name": "Markdown - Preview Quote",
+      "scope": ["markup.quote.markdown"],
+      "settings": {
+        "foreground": "#a7559b"
       }
     },
     {
