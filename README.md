@@ -2,6 +2,8 @@
 
 ## Etchmon Acid is a high contrast dark theme for vscode designed and developed in consideration of the visually impared.
 
+![Screenshot of the theme](./etchmon-acid.png)
+
 ### List of Colors Used
 
 - #070619
