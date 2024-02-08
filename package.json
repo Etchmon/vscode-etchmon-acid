@@ -6,7 +6,7 @@
   "publisher": "etchmon-dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repository.git"
+    "url": "https://github.com/Etchmon/vscode-etchmon-acid.git"
   },
   "engines": {
     "vscode": "^1.85.0"
